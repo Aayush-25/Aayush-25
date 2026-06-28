@@ -144,7 +144,7 @@ $ status
 ---
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-25&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff&color=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-25&bg_color=1a1b27&color=c792ea&title_color=6E40C9&line=6E40C9&point=ffffff&area=true&area_color=6E40C9&hide_border=true&custom_title=Aayush%27s%20Contribution%20Activity" width="100%" />
 </div>
 
 ---
