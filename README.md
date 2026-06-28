@@ -112,12 +112,15 @@ $ status
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-25&theme=tokyonight&no-bg=true&no-frame=false&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-25&theme=tokyonight&no-bg=true&column=7&margin-w=15" />
 </p>
 
 <br />
 
 ---
+
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center"><sub>My GitHub activity — updated every 12 hours</sub></p>
 
 <p align="center">
   <picture>
