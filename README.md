@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Aayush-25&color=6E40C9&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aayush-25&color=1f6feb&style=flat" alt="Profile Views" />
 
 <br /><br />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer%3BBuilding+LLM+Eval+Systems%3BBackend+SDE+%28Java%29%3BResearch+%40+ICCCNet+2026)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1f6feb&center=true&vCenter=true&width=650&lines=AI%2FML+Engineer%3BBuilding+LLM+Eval+Systems%3BBackend+SDE+%28Java%29%3BData+Engineer)](https://git.io/typing-svg)
 
 </div>
 
