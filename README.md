@@ -55,27 +55,51 @@ $ status
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/Aayush-25/EvalOps">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-25&repo=EvalOps&theme=tokyonight&show_owner=false&border_color=6E40C9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🔬 EvalOps</h3>
+      <p>Production-grade LLM evaluation & observability platform · pip-installable SDK · 52 automated tests · deployed on Railway + Streamlit Cloud</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aayush-25/EvalOps"><b>View Project →</b></a>
     </td>
-    <td>
-      <a href="https://github.com/Aayush-25/NEXUS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-25&repo=NEXUS&theme=tokyonight&show_owner=false&border_color=6E40C9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🤖 NEXUS</h3>
+      <p>RAG-based AI study assistant · LangChain + FAISS + Groq Llama 3-8B · Research paper accepted at ICCCNet 2026 (Paper ID: 932)</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aayush-25/NEXUS"><b>View Project →</b></a>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Aayush-25/JobFlowQ">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-25&repo=JobFlowQ&theme=tokyonight&show_owner=false&border_color=6E40C9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>⚡ JobFlowQ</h3>
+      <p>Distributed event-driven job queue system · fully containerized · Swagger UI · Java 17 + Spring Boot 3.5 + Kafka in KRaft mode</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aayush-25/JobFlowQ"><b>View Project →</b></a>
     </td>
-    <td>
-      <a href="https://github.com/Aayush-25/FrameWatch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aayush-25&repo=FrameWatch&theme=tokyonight&show_owner=false&border_color=6E40C9" />
-      </a>
+    <td width="50%" valign="top">
+      <h3>🎯 ResumeAI</h3>
+      <p>AI-powered resume builder · live on Vercel · FastAPI backend + React frontend · real-time resume generation</p>
+      <p>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </p>
+      <a href="https://github.com/Aayush-25/ResumeAI"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
@@ -119,16 +143,23 @@ $ status
 
 ---
 
-<h3 align="center">🐍 Contribution Snake</h3>
-<p align="center"><sub>My GitHub activity — updated every 12 hours</sub></p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aayush-25&theme=tokyo-night&hide_border=true&area=true&area_color=6E40C9&line=6E40C9&point=ffffff&color=ffffff" width="100%" />
+</div>
 
-<p align="center">
+---
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aayush-25/Aayush-25/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aayush-25/Aayush-25/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Aayush-25/Aayush-25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Aayush-25/Aayush-25/output/ocean.gif" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Aayush-25/Aayush-25/output/github-contribution-grid-snake.svg" />
+    <img alt="contribution animation"
+      src="https://raw.githubusercontent.com/Aayush-25/Aayush-25/output/ocean.gif"
+      width="100%" />
   </picture>
-</p>
+</div>
 
 <br />
 
