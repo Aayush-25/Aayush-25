@@ -115,10 +115,10 @@ $ status
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aayush-25&show_icons=true&theme=tokyonight&border_color=6E40C9&hide_border=false" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Aayush-25&show_icons=true&theme=tokyonight&border_color=1f6feb&hide_border=false" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-25&layout=compact&theme=tokyonight&border_color=6E40C9" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush-25&layout=compact&theme=tokyonight&border_color=1f6feb" />
     </td>
   </tr>
 </table>
@@ -128,7 +128,7 @@ $ status
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayush-25&theme=tokyonight&border=6E40C9&ring=6E40C9&fire=FF6B6B&currStreakLabel=6E40C9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aayush-25&theme=tokyonight&border=1f6feb&ring=1f6feb&fire=FF6B6B&currStreakLabel=58a6ff" />
 </div>
 
 <br />
@@ -136,7 +136,7 @@ $ status
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-25&theme=tokyonight&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aayush-25&theme=flat&title_color=58a6ff&border_color=1f6feb&no-bg=true&column=7&margin-w=15" />
 </p>
 
 <br />
