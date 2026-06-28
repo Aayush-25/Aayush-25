@@ -38,7 +38,7 @@ $ status
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,tensorflow,cpp,linux&theme=dark" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,flask,postman&theme=dark" />
