@@ -14,21 +14,13 @@ jobs:
     if: startsWith(github.event.issue.title, 'ttt:')
     steps:
       - uses: actions/checkout@v4
-
       - name: Set move
-        env:
-          TITLE: ${{ github.event.issue.title }}
-        run: |
-          MOVE="${TITLE#ttt:}"
-          echo "PLAYER_MOVE=$MOVE" >> $GITHUB_ENV
-
+        run: echo "PLAYER_MOVE=$(echo '${{ github.event.issue.title }}' | sed 's/ttt://')" >> $GITHUB_ENV
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Run game
         run: python scripts/tictactoe.py
-
       - name: Commit if changed
         run: |
           git config user.name github-actions
@@ -38,9 +30,8 @@ jobs:
             git commit -m "chore: ttt move [skip ci]"
             git push
           fi
-
       - name: Close issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
-        run: gh issue close "$ISSUE_NUMBER" --comment "Move played! See the board: https://github.com/Aayush-25/Aayush-25"
+        run: gh issue close "$ISSUE_NUMBER" --comment "Move played!"
