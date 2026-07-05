@@ -30,7 +30,7 @@ $ status
   learning   →  MLflow · DVC · Kafka internals · AWS (AIF-C01 in progress)
   open_to    →  AI/ML Engineer · Backend SDE (Java) · Data Engineer
   available  →  true ✅
-  last_push  →  pushed to evalops · 1 hour ago
+  last_push  →  pushed to jobflowq · 10 hours ago
 ```
 
 <br />
