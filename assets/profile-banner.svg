@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Aayush Upadhyay — Backend development</title>
+<desc id="desc">Java, Python, and the systems behind the interface. A blue architectural illustration connects an API to a queue and database.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#E9EFFB" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="340" rx="20" fill="#172B4D"/>
+<rect width="1200" height="340" rx="20" fill="url(#grid)"/>
+<path d="M760 0H1200V340H970Z" fill="#4263EB" opacity=".17"/>
+<rect x="54" y="60" width="48" height="5" rx="2.5" fill="#72D1C9"/>
+<g font-family="Trebuchet MS, Arial, sans-serif">
+<text x="52" y="139" fill="#FFFFFF" font-size="58" font-weight="700" letter-spacing="-2">Aayush Upadhyay</text>
+<text x="55" y="191" fill="#B9C9EB" font-size="27">The systems behind the interface.</text>
+<text x="55" y="272" fill="#E9EFFB" font-size="20">Backend development</text>
+<circle cx="276" cy="265" r="3" fill="#72D1C9"/>
+<text x="293" y="272" fill="#E9EFFB" font-size="20">Java + Python</text>
+</g>
+<g stroke="#8DA6EC" stroke-width="2" fill="none">
+<path d="M822 106H907Q923 106 923 122V164M822 237H907Q923 237 923 221V180M963 172H1069"/>
+<rect x="738" y="77" width="84" height="58" rx="12" fill="#233C68"/>
+<rect x="738" y="208" width="84" height="58" rx="12" fill="#233C68"/>
+<rect x="888" y="143" width="75" height="58" rx="12" fill="#4263EB" stroke="#8DA6EC"/>
+<path d="M1069 139V199C1069 218 1141 218 1141 199V139" fill="#233C68"/>
+<ellipse cx="1105" cy="139" rx="36" ry="12" fill="#233C68"/>
+<path d="M1069 169C1069 187 1141 187 1141 169"/>
+</g>
+<g fill="#E9EFFB" font-family="Trebuchet MS, Arial, sans-serif" font-size="16" text-anchor="middle">
+<text x="780" y="112">API</text><text x="780" y="244">Worker</text>
+</g>
+<g fill="#E9EFFB"><rect x="902" y="157" width="7" height="30" rx="2"/><rect x="920" y="157" width="7" height="30" rx="2"/><rect x="938" y="157" width="7" height="30" rx="2"/></g>
+<circle cx="1028" cy="172" r="5" fill="#72D1C9"/>
+<circle cx="866" cy="106" r="4" fill="#72D1C9"/>
+<circle cx="866" cy="237" r="4" fill="#72D1C9"/>
+</svg>
